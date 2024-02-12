@@ -2,10 +2,10 @@
 
 ## The Reading Room
 
-The Reading Room is a mobile app designed to encourage good reading habits in children of Primary School Age; it works as a digital reading record.
+### The Reading Room is a mobile app designed to encourage good reading habits in children of Primary School Age; it works as a digital reading record.
 
 Upon logging in, the reader is reminded of what they last read and what they noted about it. Children are then encouraged to set a stopwatch for their reading session, to record its length. Afterwards, they are prompted to write notes (with support from a parent or educator) and are then rewarded for their efforts with a prize - a choice of a colourful accessory for their monster avatar.
----
+
 Table of Contents
 
 1. Problem Statement
@@ -58,12 +58,12 @@ We used Supertest Node JS library to test our code and make HTTP requests and as
 As a team, we decided to use Github Flow to work in small groups and independently and add regular commits to our Github repository; we deployed the app regularly to ensure it looked and functioned as intended. 
 
 ## Authors
-- Anna[title](https://github.com/Annagram23)
-- Jacob[title](https://github.com/jacobfield/jacobfield)
-- Jordan[title](https://github.com/Jordan-Walters-23)
-- Marika[title](https://github.com/marikaferrari)
-- Melissa[title](https://github.com/melvinJD)
-- Mickey[title](https://github.com/mickeymarse/mickeymarse)
+- Anna [Anna](https://github.com/Annagram23)
+- Jacob[Jacob](https://github.com/jacobfield/jacobfield)
+- Jordan[Jordan](https://github.com/Jordan-Walters-23)
+- Marika[Marika](https://github.com/marikaferrari)
+- Melissa[Melissa](https://github.com/melvinJD)
+- Mickey[Mickey](https://github.com/mickeymarse/mickeymarse)
 
 ## Acknowledgements
 A big thank you to the School of Code for their support and guidance!
